@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IP 10 Assistant</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
 </resources>
